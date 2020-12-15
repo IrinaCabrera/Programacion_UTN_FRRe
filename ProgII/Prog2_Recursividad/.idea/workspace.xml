@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62d51210-8142-4cdc-b770-7b8cabc301f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jR7EkS4htATMeHOFTeRAPKhBdJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="esructurasLineales.otraLista" />
+      <recent name="recursividad" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TPI_LabCompII.Main" />
+      <module name="Prog2_Recursividad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TPI_LabCompII.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exceptiontest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a.exceptiontest" />
+      <module name="Prog2_Recursividad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esructurasLineales.examen.main" />
+      <module name="Prog2_Recursividad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="esructurasLineales.examen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainG_ej" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esructurasLineales.Grafos.mainG_ej" />
+      <module name="Prog2_Recursividad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="esructurasLineales.Grafos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a.set" />
+      <module name="Prog2_Recursividad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.exceptiontest" />
+        <item itemvalue="Application.set" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.mainG_ej" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62d51210-8142-4cdc-b770-7b8cabc301f0" name="Default Changelist" comment="" />
+      <created>1603754940413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603754940413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="320" key="#com.intellij.ide.util.MemberChooser" timestamp="1606938481980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="320" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606938481980" />
+    <state x="595" y="408" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606210518707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="408" width="398" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1606210518707" />
+    <state x="549" y="407" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606936178609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="407" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606936178609" />
+    <state x="934" y="128" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1606843011858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="934" y="128" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606843011858" />
+    <state x="767" y="332" key="FileChooserDialogImpl" timestamp="1606154642622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="332" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606154642622" />
+    <state width="1356" height="2" key="GridCell.Tab.0.bottom" timestamp="1607041813673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607041813673" />
+    <state width="1356" height="2" key="GridCell.Tab.0.center" timestamp="1607041813673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607041813673" />
+    <state width="1356" height="2" key="GridCell.Tab.0.left" timestamp="1607041813672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607041813672" />
+    <state width="1356" height="2" key="GridCell.Tab.0.right" timestamp="1607041813673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607041813673" />
+    <state width="864" height="278" key="GridCell.Tab.1.bottom" timestamp="1606181121024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="864" height="278" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606181121024" />
+    <state width="864" height="278" key="GridCell.Tab.1.center" timestamp="1606181121024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="864" height="278" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606181121024" />
+    <state width="864" height="278" key="GridCell.Tab.1.left" timestamp="1606181121024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="864" height="278" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606181121024" />
+    <state width="864" height="278" key="GridCell.Tab.1.right" timestamp="1606181121024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="864" height="278" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606181121024" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1607009605861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607009605861" />
+    <state x="697" y="327" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606155500935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="327" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1606155500935" />
+    <state x="628" y="116" width="710" height="819" key="find.popup" timestamp="1603754998142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="116" width="710" height="819" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603754998142" />
+    <state x="342" y="146" key="new project wizard" timestamp="1607041793915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="146" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1607041793915" />
+    <state x="668" y="154" key="refactoring.ChangeSignatureDialog" timestamp="1607034451746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="154" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607034451746" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607009788214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607009788214" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Prog2_Recursividad$Main.ic" NAME="Main Coverage Results" MODIFIED="1606155863742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>esructurasLineales.Xfa.*</FILTER>
+    </SUITE>
+  </component>
+</project>

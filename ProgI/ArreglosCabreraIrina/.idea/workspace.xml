@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6f57eb0-c744-4628-a984-c5a0912a7540" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bS70onTWYqbKcsRJi3oXptZdnE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../primerParcialCabreraIrina" />
+  </component>
+  <component name="RunManager" selected="Application.Ejercicio12">
+    <configuration name="Ejercicio12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio12" />
+      <module name="ArreglosCabreraIrina" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio5" />
+      <module name="ArreglosCabreraIrina" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio6" />
+      <module name="ArreglosCabreraIrina" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio7" />
+      <module name="ArreglosCabreraIrina" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio8" />
+      <module name="ArreglosCabreraIrina" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ejercicio12" />
+      <item itemvalue="Application.Ejercicio5" />
+      <item itemvalue="Application.Ejercicio6" />
+      <item itemvalue="Application.Ejercicio7" />
+      <item itemvalue="Application.Ejercicio8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicio12" />
+        <item itemvalue="Application.Ejercicio8" />
+        <item itemvalue="Application.Ejercicio7" />
+        <item itemvalue="Application.Ejercicio6" />
+        <item itemvalue="Application.Ejercicio5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6f57eb0-c744-4628-a984-c5a0912a7540" name="Default Changelist" comment="" />
+      <created>1588613420522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588613420522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="291" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588861495813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="422" y="291" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588861495813" />
+    <state x="590" y="422" key="FileChooserDialogImpl" timestamp="1588965067475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="422" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588965067475" />
+    <state width="955" height="29" key="GridCell.Tab.0.bottom" timestamp="1588962208393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="955" height="29" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588962208393" />
+    <state width="955" height="29" key="GridCell.Tab.0.center" timestamp="1588962208393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="955" height="29" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588962208393" />
+    <state width="955" height="29" key="GridCell.Tab.0.left" timestamp="1588962208393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="955" height="29" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588962208393" />
+    <state width="955" height="29" key="GridCell.Tab.0.right" timestamp="1588962208393">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="955" height="29" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588962208393" />
+    <state width="955" height="243" key="GridCell.Tab.1.bottom" timestamp="1588874132007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="955" height="243" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588874132007" />
+    <state width="955" height="243" key="GridCell.Tab.1.center" timestamp="1588874132007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="955" height="243" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588874132007" />
+    <state width="955" height="243" key="GridCell.Tab.1.left" timestamp="1588874132007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="955" height="243" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588874132007" />
+    <state width="955" height="243" key="GridCell.Tab.1.right" timestamp="1588874132007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="955" height="243" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588874132007" />
+    <state x="517" y="491" key="com.intellij.ide.util.TipDialog" timestamp="1588962242183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="491" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588962242183" />
+    <state x="294" y="208" key="new project wizard" timestamp="1588962291566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="294" y="208" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588962291566" />
+    <state x="741" y="244" key="run.anything.popup" timestamp="1588727113187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588727113187" />
+  </component>
+</project>
